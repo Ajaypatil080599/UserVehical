@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\User_Vehical_Api.props" />
+</Project>
